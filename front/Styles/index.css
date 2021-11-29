@@ -5,7 +5,7 @@
     margin: 0;
     box-sizing: border-box;
     font-size: 1rem;
-    color: rgba(77, 73, 73, 0);
+    color: rgb(41, 39, 39);
     font-family: 'Zen Maru Gothic', sans-serif;
 }
 
@@ -45,7 +45,7 @@ body{
 
 #contProductos > form > button{
     background-color: pink;
-    color: rgba(77, 73, 73, 0);
+    color: rgb(41, 39, 39);
     border: none;
     padding: 5px 10px;
     width: 100%;
@@ -61,7 +61,7 @@ body{
 
 #contProductos > form > input{
     background-color: rgb(240, 210, 248);
-    color: rgba(43, 41, 41, 0);
+    color: rgb(41, 39, 39);
     padding: 10px 15px;
     width: 100%;
     margin-top: 5px;
